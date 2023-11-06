@@ -1,0 +1,1 @@
+//C++ Program to Check given number is Prime number or not
